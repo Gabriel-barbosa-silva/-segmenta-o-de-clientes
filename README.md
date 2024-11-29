@@ -10,7 +10,7 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 Projeto de Segmentação de Clientes de um Supermercado usando as seguintes Biblioteca e recusos em python (Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn)
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-barbosa-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ## Objetivos
