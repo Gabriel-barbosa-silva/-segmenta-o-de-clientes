@@ -1,7 +1,7 @@
 
 # Segmentação de clientes de um supermercado
 
-Um supermercado, através de cartões de fidelidade, possui alguns dados básicos sobre seus clientes, como idade, gênero, renda anual e pontuação de gastos. Tal pontuação é algo que o supermercado atribui ao cliente com base em parâmetros definidos, como comportamento do cliente e dados de compra. O supermercado deseja entender melhor seus clientes, de modo a formular estratégias de negócios, e para isso contratou um cientista de dados para realizar uma segmentação dos clientes.
+Um supermercado, com o objetivo de otimizar suas estratégias de negócio, coletou um conjunto de dados demográficos e comportamentais de seus clientes através de um programa de fidelidade. Esses dados incluem idade, gênero, renda anual e uma pontuação de gastos customizada, calculada com base em padrões de compra e interações com a marca. A empresa solicitou uma análise detalhada desses dados para segmentar a base de clientes de forma precisa e personalizada, possibilitando a criação de ações de marketing e ofertas mais direcionadas.
 
 ![segmentacao_pca_3d](imagens/pca_plot_3d.png)
 
